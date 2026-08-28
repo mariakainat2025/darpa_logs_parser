@@ -1,0 +1,7 @@
+{
+  "PRINCIPAL_REMOTE": 0,
+  "SUBJECT_PROCESS": 1,
+  "FILE_OBJECT_BLOCK": 2,
+  "PRINCIPAL_LOCAL": 3,
+  "NetFlowObject": 4
+}
